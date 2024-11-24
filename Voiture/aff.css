@@ -1,0 +1,17 @@
+h3 {
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+
+.btn{
+    background-color:#FF5733;
+  color:black;
+    text-decoration:none;
+   font-weight:bold;
+   padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    transition:0,4S;
+   justify-content: space-between;
+   margin-left: 100px;
+}
